@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0087-scramble-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Sliding Window
 |  |
 | ------- |
@@ -82,10 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0085-maximal-rectangle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0087-scramble-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Matrix
 |  |
 | ------- |
