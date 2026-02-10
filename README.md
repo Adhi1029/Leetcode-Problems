@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1192-critical-connections-in-a-network) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1192-critical-connections-in-a-network) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Trie
 |  |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
