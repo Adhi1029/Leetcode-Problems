@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 ## Enumeration
 |  |
@@ -180,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1192-critical-connections-in-a-network) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
