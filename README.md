@@ -10,9 +10,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
+## Array
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0068-text-justification) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
