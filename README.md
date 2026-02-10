@@ -202,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [3697-compute-decimal-representation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3697-compute-decimal-representation) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
