@@ -50,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0100-same-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0100-same-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0100-same-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
