@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Recursion
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0052-n-queens-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
