@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0054-spiral-matrix) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0052-n-queens-ii) |
 ## Merge Sort
