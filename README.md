@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0085-maximal-rectangle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
