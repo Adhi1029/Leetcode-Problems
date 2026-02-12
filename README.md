@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0085-maximal-rectangle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0068-text-justification) |
 | [3379-transformed-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3379-transformed-array) |
 ## Divide and Conquer
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Monotonic Stack
