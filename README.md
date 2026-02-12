@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [0470-implement-rand10-using-rand7](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0478-generate-random-point-in-a-circle) |
 | [3697-compute-decimal-representation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3697-compute-decimal-representation) |
 ## Backtracking
 |  |
@@ -254,12 +255,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0478-generate-random-point-in-a-circle) |
 ## Randomized
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0470-implement-rand10-using-rand7) |
+| [0478-generate-random-point-in-a-circle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0478-generate-random-point-in-a-circle) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0470-implement-rand10-using-rand7) |
+## Geometry
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0478-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
