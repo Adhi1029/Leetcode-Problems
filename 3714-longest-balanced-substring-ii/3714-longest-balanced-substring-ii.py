@@ -21,4 +21,4 @@ class Solution:
                 if not k in m: m[k] = i
                 else: ans = max(ans, i - m[k])
 
-        return ans;
+        return ans
