@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0085-maximal-rectangle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0470-implement-rand10-using-rand7](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0478-generate-random-point-in-a-circle) |
