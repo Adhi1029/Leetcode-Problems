@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0052-n-queens-ii) |
+| [0401-binary-watch](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0401-binary-watch) |
 ## Merge Sort
 |  |
 | ------- |
@@ -285,4 +286,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
