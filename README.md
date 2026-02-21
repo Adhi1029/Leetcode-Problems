@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0470-implement-rand10-using-rand7](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0478-generate-random-point-in-a-circle) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3697-compute-decimal-representation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3697-compute-decimal-representation) |
 ## Backtracking
 |  |
@@ -296,4 +297,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
