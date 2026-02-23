@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3713-longest-balanced-substring-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0087-scramble-string) |
 | [0761-special-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0761-special-binary-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -299,4 +301,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
