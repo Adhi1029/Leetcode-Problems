@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0087-scramble-string) |
 | [0165-compare-version-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
 | [0761-special-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0761-special-binary-string) |
+| [0831-masking-personal-information](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0831-masking-personal-information) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
