@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0068-text-justification) |
+| [0078-subsets](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0401-binary-watch) |
 ## Merge Sort
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
