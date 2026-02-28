@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3502-minimum-cost-to-reach-every-position) |
+| [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3637-trionic-array-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 ## Tree
 |  |
 | ------- |
