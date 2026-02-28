@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0761-special-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0470-implement-rand10-using-rand7](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0478-generate-random-point-in-a-circle) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -348,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
