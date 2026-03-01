@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0398-random-pick-index](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0398-random-pick-index) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0398-random-pick-index](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0398-random-pick-index) |
 | [0470-implement-rand10-using-rand7](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0478-generate-random-point-in-a-circle) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0398-random-pick-index](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0398-random-pick-index) |
 | [0470-implement-rand10-using-rand7](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0478-generate-random-point-in-a-circle) |
 ## Probability and Statistics
@@ -393,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1494-parallel-courses-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1494-parallel-courses-ii) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
