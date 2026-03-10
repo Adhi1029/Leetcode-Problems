@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [0234-palindrome-linked-list](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Matrix
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0165-compare-version-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
+| [0234-palindrome-linked-list](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0060-permutation-sequence) |
+| [0234-palindrome-linked-list](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Enumeration
 |  |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0092-reverse-linked-list-ii) |
+| [0234-palindrome-linked-list](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Math
 |  |
