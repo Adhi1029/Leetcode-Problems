@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
+| [1125-smallest-sufficient-team](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1125-smallest-sufficient-team) |
 | [1200-minimum-absolute-difference](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0087-scramble-string) |
 | [0799-champagne-tower](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0799-champagne-tower) |
+| [1125-smallest-sufficient-team](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1125-smallest-sufficient-team) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1494-parallel-courses-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1494-parallel-courses-ii) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0868-binary-gap) |
+| [1125-smallest-sufficient-team](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1125-smallest-sufficient-team) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [1125-smallest-sufficient-team](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1125-smallest-sufficient-team) |
 | [1494-parallel-courses-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1494-parallel-courses-ii) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 ## Reservoir Sampling
