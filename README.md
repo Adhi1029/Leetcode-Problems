@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0307-range-sum-query-mutable](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0713-subarray-product-less-than-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0190-reverse-bits) |
+| [0307-range-sum-query-mutable](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0761-special-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
@@ -473,4 +476,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
