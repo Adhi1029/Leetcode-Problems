@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3379-transformed-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3502-minimum-cost-to-reach-every-position) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Binary Tree
 |  |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Recursion
 |  |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3697-compute-decimal-representation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3697-compute-decimal-representation) |
