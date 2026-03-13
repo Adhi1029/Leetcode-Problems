@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1125-smallest-sufficient-team](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1125-smallest-sufficient-team) |
 | [1200-minimum-absolute-difference](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0100-same-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Two Pointers
 |  |
