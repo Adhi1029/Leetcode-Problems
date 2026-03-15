@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0398-random-pick-index) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3713-longest-balanced-substring-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3714-longest-balanced-substring-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3582-generate-tag-for-video-caption](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3582-generate-tag-for-video-caption) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
