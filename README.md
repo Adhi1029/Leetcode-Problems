@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1192-critical-connections-in-a-network](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1192-critical-connections-in-a-network) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0322-coin-change) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Two Pointers
 |  |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1192-critical-connections-in-a-network) |
 | [1494-parallel-courses-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1494-parallel-courses-ii) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
