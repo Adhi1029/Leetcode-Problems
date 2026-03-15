@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
 | [0761-special-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0761-special-binary-string) |
 | [0831-masking-personal-information](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0831-masking-personal-information) |
+| [1143-longest-common-subsequence](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0799-champagne-tower](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0799-champagne-tower) |
 | [1125-smallest-sufficient-team](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1125-smallest-sufficient-team) |
+| [1143-longest-common-subsequence](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1494-parallel-courses-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1494-parallel-courses-ii) |
