@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Array
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3697-compute-decimal-representation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3697-compute-decimal-representation) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3819-rotate-non-negative-elements](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3819-rotate-non-negative-elements) |
 ## Simulation
 |  |
