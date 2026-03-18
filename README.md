@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-long-pressed-name](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0925-long-pressed-name) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Sorting
 |  |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Heap (Priority Queue)
 |  |
