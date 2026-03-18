@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1668-maximum-repeating-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1668-maximum-repeating-substring) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1494-parallel-courses-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1494-parallel-courses-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1668-maximum-repeating-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1668-maximum-repeating-substring) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2320-count-number-of-ways-to-place-houses) |
@@ -559,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
