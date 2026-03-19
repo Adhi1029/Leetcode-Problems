@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Binary Tree
 |  |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Two Pointers
 |  |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Trie
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Biconnected Component
 |  |
