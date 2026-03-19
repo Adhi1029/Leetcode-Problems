@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1873-calculate-special-bonus](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1873-calculate-special-bonus) |
 | [3521-find-product-recommendation-pairs](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3521-find-product-recommendation-pairs) |
 ## Number Theory
 |  |
