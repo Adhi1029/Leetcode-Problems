@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2938-separate-black-and-white-balls](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2938-separate-black-and-white-balls) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2938-separate-black-and-white-balls](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0925-long-pressed-name) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2938-separate-black-and-white-balls](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2938-separate-black-and-white-balls) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Sorting
