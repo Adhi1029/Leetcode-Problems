@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0139-word-break) |
 | [0219-contains-duplicate-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0307-range-sum-query-mutable](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0761-special-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0761-special-binary-string) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0100-same-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0100-same-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0501-find-mode-in-binary-search-tree) |
