@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3582-generate-tag-for-video-caption](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3582-generate-tag-for-video-caption) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3379-transformed-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3582-generate-tag-for-video-caption](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3582-generate-tag-for-video-caption) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
