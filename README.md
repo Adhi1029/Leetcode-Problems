@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3582-generate-tag-for-video-caption](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3582-generate-tag-for-video-caption) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
