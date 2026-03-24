@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Array
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3714-longest-balanced-substring-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1494-parallel-courses-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1494-parallel-courses-ii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 ## Rolling Hash
 |  |
@@ -631,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1425-constrained-subsequence-sum) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |
