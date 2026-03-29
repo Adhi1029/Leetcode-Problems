@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0068-text-justification) |
+| [0074-search-a-2d-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
