@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0322-coin-change) |
+| [0335-self-crossing](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0335-self-crossing) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0713-subarray-product-less-than-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0335-self-crossing](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0335-self-crossing) |
 | [0398-random-pick-index](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0398-random-pick-index) |
 | [0470-implement-rand10-using-rand7](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0478-generate-random-point-in-a-circle) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0335-self-crossing](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0335-self-crossing) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0478-generate-random-point-in-a-circle) |
 | [1515-best-position-for-a-service-centre](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1515-best-position-for-a-service-centre) |
 ## Bit Manipulation
