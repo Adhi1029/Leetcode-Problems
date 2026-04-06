@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1390-four-divisors](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1390-four-divisors) |
 | [1425-constrained-subsequence-sum](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1425-constrained-subsequence-sum) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0470-implement-rand10-using-rand7](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0470-implement-rand10-using-rand7) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0478-generate-random-point-in-a-circle) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1390-four-divisors](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1390-four-divisors) |
 | [1515-best-position-for-a-service-centre](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1515-best-position-for-a-service-centre) |
 | [1622-fancy-sequence](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
