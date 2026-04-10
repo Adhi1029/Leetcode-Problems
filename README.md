@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## String
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3819-rotate-non-negative-elements](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3819-rotate-non-negative-elements) |
 ## Simulation
