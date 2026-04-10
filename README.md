@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1860-incremental-memory-leak](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1860-incremental-memory-leak) |
 | [2069-walking-robot-simulation-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2138-divide-a-string-into-groups-of-size-k) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1515-best-position-for-a-service-centre](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1515-best-position-for-a-service-centre) |
 | [1622-fancy-sequence](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1860-incremental-memory-leak](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1860-incremental-memory-leak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
