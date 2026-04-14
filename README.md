@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2463-minimum-total-distance-traveled](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2751-robot-collisions) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2320-count-number-of-ways-to-place-houses) |
+| [2463-minimum-total-distance-traveled](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2463-minimum-total-distance-traveled](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
