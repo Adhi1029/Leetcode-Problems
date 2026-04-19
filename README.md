@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2179-count-good-triplets-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2513-minimize-the-maximum-of-two-arrays) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-long-pressed-name](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0925-long-pressed-name) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2938-separate-black-and-white-balls](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2938-separate-black-and-white-balls) |
