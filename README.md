@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3452-sum-of-good-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3452-sum-of-good-numbers) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
