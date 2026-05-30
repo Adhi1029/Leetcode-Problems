@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3127-make-a-square-with-the-same-color) |
+| [3161-block-placement-queries](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3161-block-placement-queries) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [1622-fancy-sequence](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1622-fancy-sequence) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2179-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3161-block-placement-queries) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-count-good-triplets-in-an-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2179-count-good-triplets-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2513-minimize-the-maximum-of-two-arrays) |
+| [3161-block-placement-queries](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3161-block-placement-queries) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0307-range-sum-query-mutable) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2179-count-good-triplets-in-an-array) |
+| [3161-block-placement-queries](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3161-block-placement-queries) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3515-shortest-path-in-a-weighted-tree) |
 ## String Matching
 |  |
