@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Stack
 |  |
 | ------- |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3697-compute-decimal-representation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3697-compute-decimal-representation) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Backtracking
