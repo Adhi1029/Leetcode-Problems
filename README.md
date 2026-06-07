@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2615-sum-of-distances](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2875-minimum-size-subarray-in-infinite-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2179-count-good-triplets-in-an-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2179-count-good-triplets-in-an-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3515-shortest-path-in-a-weighted-tree) |
 ## Depth-First Search
 |  |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1530-number-of-good-leaf-nodes-pairs) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Dynamic Programming
 |  |
 | ------- |
