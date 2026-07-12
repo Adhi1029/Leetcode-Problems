@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0874-walking-robot-simulation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1331-rank-transform-of-an-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1331-rank-transform-of-an-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0761-special-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
