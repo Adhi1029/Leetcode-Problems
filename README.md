@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3582-generate-tag-for-video-caption](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3582-generate-tag-for-video-caption) |
 | [3612-process-string-with-special-operations-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1291-sequential-digits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3127-make-a-square-with-the-same-color) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
