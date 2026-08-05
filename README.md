@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3515-shortest-path-in-a-weighted-tree) |
 ## Binary Search Tree
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
