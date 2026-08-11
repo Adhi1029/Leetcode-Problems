@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2875-minimum-size-subarray-in-infinite-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
