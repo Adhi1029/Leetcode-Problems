@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3488-closest-equal-element-queries](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Array
