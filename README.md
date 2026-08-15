@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3697-compute-decimal-representation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3697-compute-decimal-representation) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -914,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Rolling Hash
 |  |
 | ------- |
