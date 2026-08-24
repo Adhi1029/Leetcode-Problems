@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1872-stone-game-viii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2615-sum-of-distances) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2875-minimum-size-subarray-in-infinite-array) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1668-maximum-repeating-substring) |
 | [1871-jump-game-vii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2320-count-number-of-ways-to-place-houses) |
@@ -827,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1840-maximum-building-height) |
 | [1860-incremental-memory-leak](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1860-incremental-memory-leak) |
+| [1872-stone-game-viii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2029-stone-game-ix) |
@@ -1059,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -1066,12 +1071,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
