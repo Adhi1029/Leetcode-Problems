@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3452-sum-of-good-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3452-sum-of-good-numbers) |
+| [3453-separate-squares-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3488-closest-equal-element-queries](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3488-closest-equal-element-queries) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3453-separate-squares-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
