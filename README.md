@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0874-walking-robot-simulation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1331-rank-transform-of-an-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0877-stone-game) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1125-smallest-sufficient-team](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1140-stone-game-ii) |
@@ -1099,4 +1101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
