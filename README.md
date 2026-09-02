@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1406-stone-game-iii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1406-stone-game-iii) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1425-constrained-subsequence-sum](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1425-constrained-subsequence-sum) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
 | [1494-parallel-courses-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1494-parallel-courses-ii) |
@@ -1105,4 +1106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Graph Coloring
+|  |
+| ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 <!---LeetCode Topics End-->
