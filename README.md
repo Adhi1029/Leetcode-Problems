@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
 | [0657-robot-return-to-origin](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0486-predict-the-winner) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0799-champagne-tower) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0877-stone-game](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0877-stone-game) |
@@ -1130,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Binary Lifting
 |  |
