@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1425-constrained-subsequence-sum](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1425-constrained-subsequence-sum) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1515-best-position-for-a-service-centre](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1515-best-position-for-a-service-centre) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1425-constrained-subsequence-sum](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1425-constrained-subsequence-sum) |
 | [1444-number-of-ways-of-cutting-a-pizza](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1444-number-of-ways-of-cutting-a-pizza) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1494-parallel-courses-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1494-parallel-courses-ii) |
 | [1510-stone-game-iv](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1563-stone-game-v) |
@@ -1120,4 +1122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 <!---LeetCode Topics End-->
