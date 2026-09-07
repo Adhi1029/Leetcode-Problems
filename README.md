@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0831-masking-personal-information](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0831-masking-personal-information) |
 | [0925-long-pressed-name](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0925-long-pressed-name) |
+| [0940-distinct-subsequences-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0799-champagne-tower) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0877-stone-game](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1125-smallest-sufficient-team](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
