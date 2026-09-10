@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3515-shortest-path-in-a-weighted-tree) |
 ## Depth-First Search
 |  |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dynamic Programming
 |  |
 | ------- |
