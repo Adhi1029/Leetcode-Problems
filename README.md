@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3524-find-x-value-of-array-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3515-shortest-path-in-a-weighted-tree) |
+| [3525-find-x-value-of-array-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
@@ -926,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3609-minimum-moves-to-reach-target-in-grid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3609-minimum-moves-to-reach-target-in-grid) |
