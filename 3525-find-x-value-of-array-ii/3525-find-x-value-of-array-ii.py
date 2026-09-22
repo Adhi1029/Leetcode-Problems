@@ -1,61 +1,70 @@
 class Solution:
     def resultArray(self, nums: List[int], k: int, queries: List[List[int]]) -> List[int]:
         n = len(nums)
-        nums = [x % k for x in nums]
-        tree_prod = [0] * (4 * n)
-        tree_remain = [[0] * k for _ in range(4 * n)]
-        def merge(left_prod, left_remain, right_prod, right_remain):
-            prod = (left_prod * right_prod) % k
-            remain = list(left_remain)
-            for i in range(k):
-                remain[(i * left_prod) % k] += right_remain[i]
-            return prod, remain
-        def build(node, l, r):
-            if l == r:
-                val = nums[l]
-                tree_prod[node] = val
-                rem = [0] * k
-                rem[val] = 1
-                tree_remain[node] = rem
-                return
-            mid = (l + r) // 2
-            build(2 * node, l, mid)
-            build(2 * node + 1, mid + 1, r)
-            p_l, rem_l = tree_prod[2 * node], tree_remain[2 * node]
-            p_r, rem_r = tree_prod[2 * node + 1], tree_remain[2 * node + 1]
-            tree_prod[node], tree_remain[node] = merge(p_l, rem_l, p_r, rem_r)
-        def update(node, l, r, idx, val):
-            if l == r:
-                tree_prod[node] = val
-                rem = [0] * k
-                rem[val] = 1
-                tree_remain[node] = rem
-                return
-            mid = (l + r) // 2
-            if idx <= mid:
-                update(2 * node, l, mid, idx, val)
-            else:
-                update(2 * node + 1, mid + 1, r, idx, val)
-            p_l, rem_l = tree_prod[2 * node], tree_remain[2 * node]
-            p_r, rem_r = tree_prod[2 * node + 1], tree_remain[2 * node + 1]
-            tree_prod[node], tree_remain[node] = merge(p_l, rem_l, p_r, rem_r)
-        def query(node, l, r, ql, qr):
-            if ql <= l and r <= qr:
-                return tree_prod[node], tree_remain[node]
-            mid = (l + r) // 2
-            if qr <= mid:
-                return query(2 * node, l, mid, ql, qr)
-            elif ql > mid:
-                return query(2 * node + 1, mid + 1, r, ql, qr)
-            else:
-                p_l, rem_l = query(2 * node, l, mid, ql, qr)
-                p_r, rem_r = query(2 * node + 1, mid + 1, r, ql, qr)
-                return merge(p_l, rem_l, p_r, rem_r)
-        build(1, 0, n - 1)
-        ans = []
-        for index_i, value_i, start_i, xi in queries:
-            v = value_i % k
-            update(1, 0, n - 1, index_i, v)
-            _, rem = query(1, 0, n - 1, start_i, n - 1)
-            ans.append(rem[xi])
-        return ans
+        size = 1
+        while size < n:
+            size <<= 1
+        P = [1] * (2 * size)
+        C = [0] * (2 * size * k)
+        for i in range(n):
+            vm = nums[i] % k
+            P[size + i] = vm
+            C[(size + i) * k + vm] = 1
+
+        def pull(nd):
+            l = nd << 1
+            r = l | 1
+            pl = P[l]
+            P[nd] = pl * P[r] % k
+            base = nd * k
+            bl = l * k
+            br = r * k
+            for j in range(k):
+                C[base + j] = C[bl + j]
+            for j in range(k):
+                v = C[br + j]
+                if v:
+                    C[base + pl * j % k] += v
+
+        for nd in range(size - 1, 0, -1):
+            pull(nd)
+
+        out = []
+        for idx, val, start, x in queries:
+            leaf = size + idx
+            vm = val % k
+            if P[leaf] != vm:
+                base = leaf * k
+                for j in range(k):
+                    C[base + j] = 0
+                C[base + vm] = 1
+                P[leaf] = vm
+                nd = leaf >> 1
+                while nd:
+                    pull(nd)
+                    nd >>= 1
+
+            lo = start + size
+            hi = n + size
+            left = []
+            right = []
+            while lo < hi:
+                if lo & 1:
+                    left.append(lo)
+                    lo += 1
+                if hi & 1:
+                    hi -= 1
+                    right.append(hi)
+                lo >>= 1
+                hi >>= 1
+            right.reverse()
+            cur = 1 % k
+            res = 0
+            for nd in left + right:
+                base = nd * k
+                for j in range(k):
+                    if cur * j % k == x:
+                        res += C[base + j]
+                cur = cur * P[nd] % k
+            out.append(res)
+        return out
