@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1096-brace-expansion-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -1221,4 +1223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
