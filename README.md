@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0831-masking-personal-information](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0831-masking-personal-information) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0925-long-pressed-name) |
 | [0940-distinct-subsequences-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0678-valid-parenthesis-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1382-balance-a-binary-search-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1096-brace-expansion-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1239,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
