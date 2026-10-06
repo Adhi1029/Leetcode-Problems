@@ -934,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1515-best-position-for-a-service-centre](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1515-best-position-for-a-service-centre) |
@@ -1031,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0478-generate-random-point-in-a-circle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0478-generate-random-point-in-a-circle) |
 | [0836-rectangle-overlap](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1515-best-position-for-a-service-centre](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1515-best-position-for-a-service-centre) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Bit Manipulation
