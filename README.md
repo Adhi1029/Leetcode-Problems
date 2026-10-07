@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0165-compare-version-numbers) |
+| [0301-remove-invalid-parentheses](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -991,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0093-restore-ip-addresses) |
+| [0301-remove-invalid-parentheses](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
