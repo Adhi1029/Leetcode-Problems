@@ -1,37 +1,34 @@
+m = 100001
+div = [[] for _ in range(m)]
+for i in range(2, m):
+    for j in range(i, m, i):
+        div[j].append(i)
 class Solution:
-    def operation(self, k, nums):
+    def sortableIntegers(self, nums: list[int]) -> int:
         n = len(nums)
-        chunks = n // k
-        minMax = []
-        for i in range(chunks):
-            start = i * k
-            mini = float('inf')
-            maxi = float('-inf')
-            cnt = 0
-            for j in range(k):
-                curr = nums[start + j]
-                next_val = nums[start + (j + 1) % k]
-                mini = min(mini, curr)
-                maxi = max(maxi, curr)
-                if curr > next_val:
-                    cnt += 1
-            if cnt > 1:
-                return False
-            minMax.append((mini, maxi))
-        for i in range(chunks - 1):
-            if minMax[i][1] > minMax[i + 1][0]:
-                return False
-        return True
-    def sortableIntegers(self, nums):
-        n = len(nums)
-        ans = 0
-        i = 1
-        while i * i <= n:
-            if n % i == 0:
-                if self.operation(i, nums):
-                    ans += i
-                if i != n // i:
-                    if self.operation(n // i, nums):
-                        ans += (n // i)
-            i += 1
-        return ans
+        right = [n]*n 
+        for i in range(n-2,-1,-1):
+            if nums[i] > nums[i + 1]:
+                right[i] = i
+            else:
+                right[i] = right[i + 1] 
+        a = 0
+        if right[0] == n: a = 1 
+        def f(k):
+            pre = 0
+            for r in range(k - 1, n, k):
+                l = r - k + 1
+                m = right[l]
+                if m > r:
+                    if nums[l] < pre:
+                        return 
+                    pre = nums[r]
+                else:
+                    if right[m + 1] < r or nums[m + 1] < pre or nums[r] > nums[l]:
+                        return 
+                    pre = nums[m]
+            nonlocal a 
+            a += k
+        for d in div[n]:
+            f(d)
+        return a         
