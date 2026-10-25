@@ -1,20 +1,24 @@
 class Solution:
     def closedIsland(self, grid: List[List[int]]) -> int:
-        rows, cols = len(grid), len(grid[0])
-        count = 0
-        def dfs(i, j):
-            if i < 0 or j < 0 or i >= rows or j >= cols:
-                return False
-            if grid[i][j] == 1:
-                return True
-            grid[i][j] = 1
-            left = dfs(i, j-1)
-            right = dfs(i, j+1)
-            up = dfs(i-1, j)
-            down = dfs(i+1, j)
-            return left and right and up and down
-        for i in range(rows):
-            for j in range(cols):
-                if grid[i][j] == 0 and dfs(i, j):
-                    count += 1
-        return count
+        rows = len(grid)
+        columns = len(grid[0])
+        res = 0
+        def fill_island(row, column):
+            if row < 0 or column < 0 or row >= rows or column >= columns or grid[row][column] == 1:
+                return
+            grid[row][column] = 1
+            fill_island(row + 1, column)
+            fill_island(row - 1, column)
+            fill_island(row, column + 1)
+            fill_island(row, column - 1)
+        for row in range(rows):
+            for column in range(columns):
+                if row == 0 or row == rows - 1 or column == 0 or column == columns - 1:
+                    if grid[row][column] == 0:
+                        fill_island(row, column)
+        for row in range(1, rows - 1):
+            for column in range(1, columns - 1):
+                if grid[row][column] == 0:
+                    res += 1
+                    fill_island(row, column)
+        return res
