@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Array
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3452-sum-of-good-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3452-sum-of-good-numbers) |
 | [3453-separate-squares-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3161-block-placement-queries) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3525-find-x-value-of-array-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3525-find-x-value-of-array-ii) |
@@ -717,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2751-robot-collisions](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2751-robot-collisions) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -764,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Adhi1029/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1221,10 +1226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1425-constrained-subsequence-sum) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [1425-constrained-subsequence-sum](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1425-constrained-subsequence-sum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Brainteaser
 |  |
 | ------- |
