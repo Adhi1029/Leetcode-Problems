@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview
 | [2129-capitalize-the-title](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2129-capitalize-the-title) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview
 | [2075-decode-the-slanted-ciphertext](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2751-robot-collisions](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
