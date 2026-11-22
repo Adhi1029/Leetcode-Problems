@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1927-sum-game](https://github.com/Adhi1029/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2129-capitalize-the-title) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
