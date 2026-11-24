@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview
 | [3331-find-subtree-sizes-after-changes](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3379-transformed-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3452-sum-of-good-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3452-sum-of-good-numbers) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview
 | [2778-sum-of-squares-of-special-elements](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3127-make-a-square-with-the-same-color](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3127-make-a-square-with-the-same-color) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -1045,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -1182,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Adhi1029/Leetcode-Problems/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adhi1029/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Union-Find
